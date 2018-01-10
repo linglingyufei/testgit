@@ -2,3 +2,5 @@ test git functions
 1, new git class
 2, sync
 3,tbd
+4,git push request
+5,git revise
