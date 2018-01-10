@@ -1,0 +1,4 @@
+test git functions
+1, new git class
+2, sync
+3,tbd
