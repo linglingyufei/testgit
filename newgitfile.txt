@@ -9,5 +9,5 @@ test git functions
 8, add and commit
 9, new test for version
 10, add a new branch called feature
-11, test another way of merge
-12, test ff merge
+11, add new line on master branch
+12, test another way of merge
