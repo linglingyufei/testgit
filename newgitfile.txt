@@ -7,3 +7,4 @@ test git functions
 6, restart this git test
 7, add a new file
 8, add and commit
+9, new test for version
