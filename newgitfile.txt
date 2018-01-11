@@ -4,3 +4,4 @@ test git functions
 3,tbd
 4,git push request
 5,git revise
+6, restart this git test
