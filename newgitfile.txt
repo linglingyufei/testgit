@@ -10,3 +10,4 @@ test git functions
 9, new test for version
 10, add a new branch called feature
 11, test another way of merge
+12, test ff merge
