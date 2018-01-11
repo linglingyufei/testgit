@@ -8,3 +8,4 @@ test git functions
 7, add a new file
 8, add and commit
 9, new test for version
+10, test merge
