@@ -5,3 +5,5 @@ test git functions
 4,git push request
 5,git revise
 6, restart this git test
+7, add a new file
+8, add and commit

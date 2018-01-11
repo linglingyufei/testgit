@@ -1,0 +1,4 @@
+just add a file to test function of mulitiple files
+1. prepare files
+2. add
+3. commit
